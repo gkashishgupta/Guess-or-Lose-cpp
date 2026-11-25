@@ -1,6 +1,6 @@
 # Guess or Lose
 
-My C++ project a simple console-based Number Guessing Game.
+A simple console-based Number Guessing Game built using C++.
 
 The game asks the player to enter their name and deposit an initial amount. The player then places a bid and guesses a random number between 1 and 10.
 
